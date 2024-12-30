@@ -20,5 +20,3 @@
 - **Cons**:
   - Can lead to memory leaks if observers are not removed properly.
   - Potentially costly updates if many observers exist or frequent notifications occur. 
-
-Would you like an example to solidify the concept?
